@@ -1,0 +1,6 @@
+{
+  "name": "Photon Arena",
+  "description": "Massive multiplayer first-person neon laser tag arena with real-time 3D raycast combat, live player sync, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
